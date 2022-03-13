@@ -11,7 +11,8 @@ I'm particularly interested in getting involved with engineering that is increas
 Currently Reading: 
 - fluent python, 2nd edition 
 - breath
-- we: the cult of we
+- principles
 
 Currently Watching:  
-- yellowstone: season 3
+- yellowstone: season 4
+- resident alien
