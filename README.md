@@ -10,11 +10,11 @@ I was also a Cyber-Security co-op with Sub-Zero Group, where I learned about inc
 
 I'm particularly interested in getting involved with engineering that is increasing how efficiently we use our collective resources, renewable energy, blockchains, security, and their intersections. 
 
-__Currently Reading 📕 __: 
+__Currently Reading 📕 __ 
 - fluent python, 2nd edition 
 - breath
 - principles
 
-__Currently Watching 📺  __:  
+__Currently Watching 📺  __
 - yellowstone: season 4
 - resident alien
