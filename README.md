@@ -12,8 +12,8 @@ I'm particularly interested in getting involved with engineering that is increas
 
 ### Currently Reading 📕  
 - [the rust docs](https://doc.rust-lang.org/book/) 
-- the pilgrimage (paulo coelho)
-- principles (ray dalio)
+- Where Wizards Stay Up Late: The Origins of the Internet
+- Cybersecurity Ops with bash
 
 ### hobbies ⚡️ 
 - snowboarding, reading, cooking, exploring
