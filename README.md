@@ -12,7 +12,7 @@ I'm particularly interested in getting involved with engineering that is increas
 
 ### Currently Reading 📕  
 - [the rust docs](https://doc.rust-lang.org/book/) 
-- Where Wizards Stay Up Late: The Origins of the Internet
+- The Caves of Steel (The Robot Series, by Isaac Asimov)
 - Cybersecurity Ops with bash
 
 ### hobbies ⚡️ 
