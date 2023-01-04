@@ -12,7 +12,7 @@ I'm particularly interested in getting involved with engineering that is increas
 
 ### Currently Reading 📕  
 - [the rust docs](https://doc.rust-lang.org/book/) 
-- The Robots of Dawn (The Robot Series, by Isaac Asimov)
+- The End of the World is just the Beginning
 - [The Future of Money](https://www.amazon.com/Future-Money-Revolution-Transforming-Currencies/dp/0674258444)
 
 ### hobbies ⚡️ 
