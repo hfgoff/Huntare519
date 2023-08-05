@@ -11,9 +11,9 @@ I just finished interning with [MITRE](https://www.mitre.org) for the summer bef
 I'm particularly interested in getting involved with engineering that is increasing how efficiently we use our collective resources, renewable energy, blockchains, security, and their intersections. 
 
 ### Currently Reading 📕  
-- [the rust docs](https://doc.rust-lang.org/book/) 
-- The End of the World is just the Beginning
-- [The Future of Money](https://www.amazon.com/Future-Money-Revolution-Transforming-Currencies/dp/0674258444)
+- The End of the World is Just the Beginning
+- Prelude to Foundation
+- Forward the Foundation
 
 ### hobbies ⚡️ 
 - snowboarding, reading, cooking, exploring, scuba
