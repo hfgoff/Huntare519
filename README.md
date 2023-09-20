@@ -2,18 +2,15 @@
 
 I'm originally from Minnesota, where I grew up playing soccer, spending time outside, and reading. 
 
-On campus, at the University of Wisconsin - Madison, I'm the president at Badger Blockchain where we seek to educate and network UW-Madison students on blockchain, crypto, and web3.
+Previously, in 2021, I was a Cyber-Security co-op with [Sub-Zero Group](https://www.subzero-wolf.com), where I learned about incident response, project management, and mitigating CVEs, among other things. After that, I continued my work at Sub-Zero as a Software QA Engineer part-time. As a QA developer, I built internal automation tools for our IoT devices utilizing python3, TestRails, and Azure.
 
-Previously, I was a Cyber-Security co-op with [Sub-Zero Group](https://www.subzero-wolf.com), where I learned about incident response, project management, mitigating CVEs, among other things. After, I continued my work at Sub-Zero as a Software QA Engineer part-time. As a QA developer, I built internal automation tools for our IoT devices utilizing python3, TestRails, and Azure.
+In 2022, I interned with [MITRE](https://www.mitre.org) for the summer before I returned for my final year at UW. There, I did full-stack/security engineering and worked extensively with GraphQL, Java Spring Boot, Typescript, and React.
 
-I just finished interning with [MITRE](https://www.mitre.org) for the summer before I return for my final year at UW. There, I did full-stack/security engineering, and worked a lot with GraphQL, Java Spring Boot, Typescript, and React.
-
-I'm particularly interested in getting involved with engineering that is increasing how efficiently we use our collective resources, renewable energy, blockchains, security, and their intersections. 
+I'm particularly interested in getting involved with engineering increasing how efficiently we use our collective resources, renewable energy, blockchains, security, and their intersections. 
 
 ### Currently Reading 📕  
-- The End of the World is Just the Beginning
-- Prelude to Foundation
 - Forward the Foundation
+- Neuromancer
 
 ### hobbies ⚡️ 
 - snowboarding, reading, cooking, exploring, scuba
